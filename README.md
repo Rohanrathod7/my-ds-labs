@@ -18,6 +18,11 @@ This repository contains notebooks and notes from various DataCamp courses I've 
 - 📝 Each notebook contains code from DataCamp plus my own notes
 - 🔁 I revise labs weekly and add new insights
 - 💼 This also serves as a portfolio for recruiters and project mentors
+- get dataset used in each module form dataset folder
+  use it as
+  url = "https://raw.githubusercontent.com/<your-username>/<repo-name>/main/matplotlib/seattle_weather.csv"
+  df = pd.read_csv(url)
+  df.head()
 
 ## 🚀 Courses Covered
 
